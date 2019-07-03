@@ -1,6 +1,6 @@
 # Notepad++
 
-This definition file highlight JPl keywords on your Notepad++ editor
+This definition file highlights JPL keywords in your Notepad++ editor
 
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
 
