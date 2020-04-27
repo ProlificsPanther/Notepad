@@ -1,0 +1,36 @@
+<NotepadPlus>
+    <UserLang name="JPL" ext="jpl">
+        <Settings>
+            <Global caseIgnored="yes" escapeChar="\" />
+            <TreatAsSymbol comment="no" commentLine="no" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;&apos;0&quot;&apos;0</Keywords>
+            <Keywords name="Folder+">{</Keywords>
+            <Keywords name="Folder-">}</Keywords>
+            <Keywords name="Operators">- ! # &amp; ( ) , : ; @ [ ] ^ ` | ~ + &lt; = &gt;</Keywords>
+            <Keywords name="Comment">1/* 1 2*/ 0//</Keywords>
+            <Keywords name="Words1">if then else for while step until break next</Keywords>
+            <Keywords name="Words2">advertise service atch broadcast type call cat client_exit client_init client notification poll signal ignore dequeue qspace name enqueue msgid flush jif_check jif_read length log math notify jamflex post event raise_exception receive item data keep args arguments message receive_args return_args retvar runreport rwrun send bundle append service_call priority service_cancel all service_forward priority service_return failure success shell subscribe system tpi unadvertise unload_data unsubscribe wait for_all</Keywords>
+            <Keywords name="Words3">dbms sql insert into values delete update set select distinct from where exists in is any all some and or left right inner outer join char datetime float int long create table database drop between group by having like escape order asc desc not null count avg min max sum primary foreign key references like escape with engine close column_names connection close_all_connections declare cursor cursors continue execute using rpc alias binary catquery to separator heading on off column names format occur start unique connected continue_bottom continue_down continue_top continue_up store file onentry onerror onexit application autocommit begin browse cancel commit completion run rollback user database datasource server procedure stored_sub save flush timeout transaction</Keywords>
+            <Keywords name="Words4">msg d_msg emsg err_reset query qui_msg quiet setbkstat double string proc parms deref vars global public include unload jpl load return</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="8000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="8000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="00FF00" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="8080C0" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="004080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FF8000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="008040" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
