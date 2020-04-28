@@ -7,4 +7,4 @@
 4) You will not see all JPL verbs highlighted.
 
 Illustration
-![](Notepad.png)
+![](jpl.png)
