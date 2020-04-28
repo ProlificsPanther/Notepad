@@ -6,4 +6,5 @@
 3) Click on Language in the menu bar, scroll down and select JPL.
 4) You will not see all JPL verbs highlighted.
 
- 
+Illustration
+![](Notepad.png)
